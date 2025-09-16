@@ -1,0 +1,45 @@
+.page-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0.25rem;
+    margin-bottom: 0.75rem;
+  }
+  
+  .custom-table {
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  
+  .custom-table thead th {
+    font-size: 1.2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: #ffffff;
+    padding: 1rem;
+    text-align: left;
+  }
+  
+  .custom-table tbody td {
+    font-size: 1rem;
+    padding: 0.75rem;
+    vertical-align: middle;
+  }
+  
+  .custom-btn {
+    border: 2px solid #ffffff;
+    background-color: transparent;
+    color: #ffffff;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .custom-btn:hover {
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: #ffffff;
+  }
